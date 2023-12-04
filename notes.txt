@@ -1,0 +1,5 @@
+- align buttons
+- copyright
+- order soldering stuff, so flux, metal sponge
+- tx rx gnd labels
+- btn labels
