@@ -3,3 +3,5 @@
 - order soldering stuff, so flux, metal sponge
 - tx rx gnd labels
 - btn labels
+- i2c pads
+- vcc gnd flipped on display
