@@ -1,7 +1,7 @@
-- align buttons
-- copyright
+- align buttons - done
+- Logo - done
 - order soldering stuff, so flux, metal sponge
-- tx rx gnd labels
-- btn labels
-- i2c pads
-- vcc gnd flipped on display
+- tx rx gnd labels - done
+- btn labels - done
+- i2c pads - done
+- vcc gnd flipped on display - done
